@@ -5,4 +5,4 @@ Practicing with avinash
 Tuesday practice
 Check logs as well
 and learn all commands
-Learning Git professionally.
+Learning Git professionally.                                                    
